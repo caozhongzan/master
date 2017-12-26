@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://efb.tibetairlines.com.cn:9108</string>
+					<string>http://efb.tibetairlines.com.cn:9108/EFB.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
